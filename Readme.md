@@ -4,8 +4,10 @@
 
 ## User Stories
 
-This program implements the mouse listener interface and other action listeners
-
+This program implements:
+	- Action listener interface
+	- Combo box and listener
+	- Array of objects
 
 ## Video Walkthrough 
 
